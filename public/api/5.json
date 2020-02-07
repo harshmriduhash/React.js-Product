@@ -1,0 +1,11 @@
+{
+    "id": 5,
+    "productName": "Video Game Controller",
+    "productCode": "GMG-0042",
+    "releaseDate": "2015-10-15",
+    "description": "Standard two-button video game controller",
+    "price": 35.95,
+    "starRating": 4,
+    "imageUrl": "http://via.placeholder.com/800x500",
+    "tags": []
+}

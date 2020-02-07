@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "productName": "Hammer",
+    "productCode": "TBX-0048",
+    "releaseDate": "2016-05-21",
+    "description": "Curved claw steel hammer",
+    "price": 8.9,
+    "starRating": 4,
+    "imageUrl": "http://via.placeholder.com/800x500",
+    "tags": ["tools", "hammer", "construction"]
+}
